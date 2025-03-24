@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/python-39:latest AS builder
+FROM registry.access.redhat.com/ubi9/python-312:9.5-1742197730
 
 COPY olot .
 
