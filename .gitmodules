@@ -1,0 +1,3 @@
+[submodule "olot"]
+	path = olot
+	url = https://github.com/containers/olot
